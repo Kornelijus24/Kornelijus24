@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Kornelijus! I'm currently studying at Vilnius University</h2>
+<h2 align="left">Hi 👋! My name is Kornelijus!</h2>
 
 ###
 
